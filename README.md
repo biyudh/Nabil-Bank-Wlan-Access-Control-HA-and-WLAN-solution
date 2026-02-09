@@ -1,4 +1,6 @@
 ##########Dual-Link Hot Standby (HSB) Architecture for Huawei AirEngine APs#########
+<img width="566" height="508" alt="image" src="https://github.com/user-attachments/assets/127b819d-6bf8-4b29-976b-4533399f6d89" />
+
 
 This project demonstrates a Dual-Link Hot Standby (HSB) Wireless Controller architecture using Huawei Access Controllers (ACs) and AirEngine 5761 Wi-Fi 6 Access Points.
 The design ensures high availability, seamless failover, and zero session loss in enterprise wireless networks.
