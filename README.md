@@ -1,7 +1,6 @@
 
 #####Dual-Link Hot Standby (HSB) Architecture for Huawei AirEngine APs#########
-
-#####<img width="1024" height="1536" alt="Nabil-bank-project" src="https://github.com/user-attachments/assets/78b3210b-673a-4166-a3c8-9732aa2af19e" />
+<img width="553" height="556" alt="Nabil_bank_topology" src="https://github.com/user-attachments/assets/9e4d6336-56ad-4bbc-bd7a-dbac1682c6a1" />
 
 This project demonstrates a Dual-Link Hot Standby (HSB) Wireless Controller architecture using Huawei Access Controllers (ACs) and AirEngine 5761 Wi-Fi 6 Access Points.
 The design ensures high availability, seamless failover, and zero session loss in enterprise wireless networks.
@@ -145,6 +144,7 @@ Clients remain connected with no session drop
 Redundancy: Dual-AC Hot Standby (HSB) with VRRP Virtual IP
 
 Control: Centralized AirEngine 5761 management via CAPWAP
+<img width="1024" height="1536" alt="Nabil-bank-project" src="https://github.com/user-attachments/assets/78b3210b-673a-4166-a3c8-9732aa2af19e" />
 
 Reliability: Real-time session synchronization for hitless failover
 
